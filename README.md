@@ -7,7 +7,7 @@
 <h3 align="center">Fabr1catedMod</h3>
 
   <p align="center">
-    The most random mod every created. WIP
+    The most random mod ever created. WIP
     <br/>
     <br/>
     <a href="https://github.com/Fabr1catedInc/Fabr1catedMod/issues">Report Bug</a>
