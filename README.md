@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Fabr1catedInc/Fabr1catedMod">
-    <img src="https://media.discordapp.net/attachments/968513909160042586/996757619563839659/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/968513909160042586/996757619563839659/icon.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">Fabr1catedMod</h3>
