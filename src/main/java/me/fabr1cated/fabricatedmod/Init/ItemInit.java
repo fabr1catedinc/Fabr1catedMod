@@ -13,5 +13,6 @@ public class ItemInit {
 
     public static final RegistryObject<Item> FABRICATED_KEYS = ITEMS.register("fabricated_keys", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_TOOLS)));
     public static final RegistryObject<Item> KAWAII = ITEMS.register("kawaii", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).food(Foods.ENCHANTED_GOLDEN_APPLE)));
+    public static final RegistryObject<Item> KAWAII_DUST = ITEMS.register("kawaii_dust", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 }
 
