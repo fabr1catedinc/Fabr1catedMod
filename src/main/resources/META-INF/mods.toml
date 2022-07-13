@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT"
+
+[[mods]]
+modId="fabricatedmod"
+version="1.0"
+displayName="Fabr1cated Mod"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+credits="Thanks to Ashlyn for helping me."
+authors="Fabricated"
+description='''
+Official Fabricated mod.
+'''
